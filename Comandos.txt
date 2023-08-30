@@ -3,3 +3,7 @@ git config user.name Dorival
 git config user.email rigonato@uol.com.br
 git add -A
 git commit -m "Primeiro commit"
+
+Apredendo branches
+comandos:
+git branch 
